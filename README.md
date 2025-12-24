@@ -138,6 +138,16 @@ SOURCE insert_data.sql;
 ```
 SOURCE queries.sql;
 ```
+## 📈 Use Cases
+
+Library staff can track issued and returned books
+
+Admin can view employee and branch information
+
+Members' borrowing history can be monitored
+
+Data reports can be generated efficiently
+
 
 ## 📚 Learning Outcomes
 
@@ -148,3 +158,19 @@ Experience with foreign keys & joins
 Hands-on SQL query execution
 
 Real-world database problem modeling
+
+## 🧪 Future Enhancements
+
+Add stored procedures and triggers
+
+Implement user roles and access control
+
+Integrate with frontend application
+
+Convert to full-stack library management system
+
+### ⭐ Author
+
+Rushikesh Sable
+
+rushikeshsable9850@gmail.com
