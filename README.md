@@ -114,12 +114,21 @@ The system consists of the following tables:
 
 ## 📂 Project Structure
 
-
-
-
-
-
-
+Library-Database-Management-System-MYSQL/
+│
+├── screenshots/
+│   ├── HOW-DO-YOU-DESIGN-A-LIBRARY-MANAGEMENT-SYSTEM-min.webp
+│   └── query solutions screenshots/
+│       ├── 1.png
+│       ├── 2.png
+│       ├── 3.png
+│       ├── ...
+│       └── 20.png
+│
+├── database schema.sql
+├── query.sql
+├── query solutions.sql
+├── README.md
 
 
 ---
