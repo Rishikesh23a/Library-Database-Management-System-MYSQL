@@ -24,6 +24,66 @@ The project focuses on **database design, normalization, relationships, and quer
 
 ---
 
+## 🗃️ Database Schema Description
+
+### 1️⃣ Branch Table
+Stores information about library branches.
+- Branch ID (Primary Key)
+- Manager ID
+- Address
+- Contact Number
+
+### 2️⃣ Employees Table
+Stores employee details working in different branches.
+- Employee ID (Primary Key)
+- Name
+- Position
+- Salary
+- Branch ID (Foreign Key)
+
+### 3️⃣ Members Table
+Stores registered library member information.
+- Member ID (Primary Key)
+- Name
+- Address
+- Registration Date
+
+### 4️⃣ Books Table
+Stores information about books available in the library.
+- ISBN (Primary Key)
+- Book Title
+- Category
+- Rental Price
+- Status (Available / Issued)
+- Author
+- Publisher
+
+### 5️⃣ Issued_Status Table
+Tracks book issue transactions.
+- Issue ID (Primary Key)
+- Member ID (Foreign Key)
+- ISBN (Foreign Key)
+- Issue Date
+
+### 6️⃣ Return_Status Table
+Tracks book return details.
+- Return ID (Primary Key)
+- Issue ID (Foreign Key)
+- Return Date
+
+---
+
+## 🔗 Entity Relationships
+- One **branch** can have many **employees**
+- One **member** can issue multiple **books**
+- Each **issued book** is associated with exactly one member
+- Each **return record** corresponds to an issued book
+- Referential integrity is maintained using **foreign key constraints**
+
+---
+
+
+
 ## 🗂️ Database Tables
 The system consists of the following tables:
 
