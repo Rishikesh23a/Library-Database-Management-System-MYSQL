@@ -1,8 +1,11 @@
 # 📚 Library Database Management System (MySQL)
 
 <p align="center">
-  <em>Conceptual Architecture of Library Database Management System</em>
+  <img src="screenshots/HOW-DO-YOU-DESIGN-A-LIBRARY-MANAGEMENT-SYSTEM-min.webp" 
+       alt="Library Database Management System" 
+       width="600"/>
 </p>
+
 
 
 ## 📌 Project Description
