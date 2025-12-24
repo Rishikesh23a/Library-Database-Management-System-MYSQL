@@ -1,5 +1,10 @@
 # 📚 Library Database Management System (MySQL)
 
+<p align="center">
+  <em>Conceptual Architecture of Library Database Management System</em>
+</p>
+
+
 ## 📌 Project Description
 The **Library Database Management System** is a structured SQL-based project developed using **MySQL** to manage and organize core library operations efficiently.  
 This system handles information related to **books, members, employees, branches, and book issuing records** using a relational database approach.
