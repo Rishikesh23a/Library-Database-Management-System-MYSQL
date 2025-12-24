@@ -45,3 +45,45 @@ The system consists of the following tables:
 ---
 
 ## 📂 Project Structure
+
+
+
+
+
+
+
+
+
+---
+
+## 🚀 How to Run the Project
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/Rishikesh23a/Library-Database-Management-System-MYSQL.git
+```
+### Step 2: Open MySQL
+
+Use MySQL Workbench
+
+### Step 3: Create Database & Tables
+
+SOURCE schema.sql;
+
+### Step 4: Insert Sample Data
+
+SOURCE insert_data.sql;
+
+### Step 5: Execute Queries
+
+SOURCE queries.sql;
+
+## 📚 Learning Outcomes
+
+Practical understanding of relational databases
+
+Experience with foreign keys & joins
+
+Hands-on SQL query execution
+
+Real-world database problem modeling
