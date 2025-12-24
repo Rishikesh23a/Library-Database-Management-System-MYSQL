@@ -1,0 +1,20 @@
+-- 1. List all books that have never been issued.
+-- 2. Find the total number of members registered in the system.
+-- 3. Show all books issued by employee `E106`.
+-- 4. Display the list of books returned in the month of May 2024.
+-- 5. Count how many books each member has issued.
+-- 6. Show the details of members who have never issued any book.
+-- 7. Find the earliest and latest book issue date in the system.
+-- 8. Get the names of employees who issued books to member `C109`.
+-- 9. Display all books that have been returned along with their return dates.
+-- 10. Get the top 5 most recently issued books.
+-- 11. List the number of books issued by each employee (show emp ID and count).
+-- 12. Show members who have returned all the books they issued.
+-- 13. For each book, show how many times it has been issued.
+-- 14. Find the most active member (who issued the most books).
+-- 15. Display books that have been issued multiple times to the same member.
+-- 16. Label books as `Returned`, `Not Returned`.
+-- 17. Use `DENSE_RANK()` to rank members based on the number of books issued.
+-- 18. Using `PARTITION BY`, show issue count per member, with a running total of issues.
+-- 19. List members who returned books within 7 days of issuing (need subquery or CTE).
+-- 20. Calculate the average time between issue and return for each member. --
