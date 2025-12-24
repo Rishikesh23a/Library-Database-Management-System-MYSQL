@@ -113,7 +113,7 @@ The system consists of the following tables:
 ---
 
 ## 📂 Project Structure
-
+```
 Library-Database-Management-System-MYSQL/
 │
 ├── screenshots/
@@ -129,7 +129,7 @@ Library-Database-Management-System-MYSQL/
 ├── query.sql
 ├── query solutions.sql
 ├── README.md
-
+```
 
 ---
 
