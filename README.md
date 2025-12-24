@@ -63,20 +63,21 @@ The system consists of the following tables:
 git clone https://github.com/Rishikesh23a/Library-Database-Management-System-MYSQL.git
 ```
 ### Step 2: Open MySQL
-
+```
 Use MySQL Workbench
-
+```
 ### Step 3: Create Database & Tables
-
+```
 SOURCE schema.sql;
-
+```
 ### Step 4: Insert Sample Data
-
+```
 SOURCE insert_data.sql;
-
+```
 ### Step 5: Execute Queries
-
+```
 SOURCE queries.sql;
+```
 
 ## 📚 Learning Outcomes
 
